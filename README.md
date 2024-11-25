@@ -36,3 +36,7 @@ To run the Jupyter Notebook and perform the analysis, ensure you have the follow
 
 ```bash
 pip install pandas matplotlib seaborn
+
+##Taleau visualization dashboard
+https://public.tableau.com/app/profile/emmanuel.korir/viz/SalesDataproject_17325221343730/Dashboard1
+
